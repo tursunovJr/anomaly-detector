@@ -1,0 +1,9 @@
+{
+  "rule_card": "BottleneckService",
+  "rules": [
+    { "name": "BottleneckService", "operator": "INTER", "rule_names": "LowAvailability, HighResponse, HighCoupling" },
+    { "name": "HighResponse", "metric_id": "RT", "ordi_value": "high" },
+    { "name": "LowAvailability", "metric_id": "A", "ordi_value": "low" },
+    { "name": "HighCoupling", "metric_id": "CPL", "ordi_value": "very_high" }
+  ]
+}

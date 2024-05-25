@@ -1,0 +1,12 @@
+{
+  "rule_card": "MultiService",
+  "rules": [
+    { "name": "MultiService", "operator": "INTER", "rule_names": "MultiMethod, HighResponse, LowAvailability, LowCohesion" },
+    { "name": "MultiMethod", "metric_id": "NMD", "ordi_value": "very_high" },
+    { "name": "HighResponse", "metric_id": "RT", "ordi_value": "very_high" },
+    { "name": "LowAvailability", "metric_id": "A", "ordi_value": "low" },
+    { "name": "LowCohesion", "metric_id": "COH", "ordi_value": "low" }
+  ]
+}
+
+

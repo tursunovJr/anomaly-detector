@@ -1,0 +1,10 @@
+{
+  "rule_card": "TheKnot",
+  "rules": [
+    { "name": "TheKnot", "operator": "INTER", "rule_names": "HighCoupling, LowCohesion, LowAvailability, HighResponse" },
+    { "name": "HighCoupling", "metric_id": "CPL", "ordi_value": "very_high" },
+    { "name": "LowCohesion", "metric_id": "COH", "ordi_value": "very_low" },
+    { "name": "LowAvailability", "metric_id": "A", "ordi_value": "low" },
+    { "name": "HighResponse", "metric_id": "RT", "ordi_value": "high" }
+  ]
+}

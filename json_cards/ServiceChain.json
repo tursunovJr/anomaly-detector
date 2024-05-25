@@ -1,0 +1,8 @@
+{
+  "rule_card": "ServiceChain",
+  "rules": [
+    { "name": "ServiceChain", "operator": "INTER", "rule_names": "FewMethod, HighCoupling" },
+    { "name": "TransitiveInvocation", "metric_id": "NTMI", "ordi_value": "very_high" },
+    { "name": "LowAvailability", "metric_id": "A", "ordi_value": "low" }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "rule_card": "NobodyHome",
+  "rules": [
+    { "name": "NobodyHome", "operator": "INTER", "rule_names": "IncomingReference, MethodInvocation" },
+    { "name": "IncomingReference", "metric_id": "NIR", "comparator": "greater", "num_value": "0" },
+    { "name": "MethodInvocation", "metric_id": "NMI", "comparator": "equal", "num_value": "0" }
+  ]
+}

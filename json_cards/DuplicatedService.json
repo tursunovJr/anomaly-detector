@@ -1,0 +1,7 @@
+{
+  "rule_card": "DuplicatedService",
+  "rules": [
+    { "name": "DuplicatedService", "operator": "INTER", "rule_names": "DuplicatedService" },
+    { "name": "DuplicatedService", "metric_id": "ANIM", "ordi_value": "high" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "rule_card": "ChattyService",
+  "rules": [
+    {
+      "name": "ChattyService",
+      "operator": "INTER",
+      "rule_names": "RT, PLD, NMI"
+    },
+    {
+      "name": "ServiceA",
+      "metric_id": "RT",
+      "comparator": "greater",
+      "num_value": "100"
+    },
+    {
+      "name": "ServiceB",
+      "metric_id": "PLD",
+      "comparator": "equal",
+      "num_value": "200"
+    },
+    {
+      "name": "",
+      "metric_id": "NMI",
+      "ordi_value": "high"
+    }
+  ]
+}

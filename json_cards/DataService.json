@@ -1,0 +1,10 @@
+{
+  "rule_card": "DataService",
+  "rules": [
+    { "name": "MultiService", "operator": "INTER", "rule_names": "SmallParameter, PrimitiveParameter, HighDataAccessor, HighCohesion" },
+    { "name": "SmallParameter", "metric_id": "ANP", "ordi_value": "medium" },
+    { "name": "PrimitiveParameter", "metric_id": "ANPT", "ordi_value": "high" },
+    { "name": "HighDataAccessor", "metric_id": "ANAM", "ordi_value": "very_high" },
+    { "name": "HighCohesion", "metric_id": "COH", "ordi_value": "high" }
+  ]
+}

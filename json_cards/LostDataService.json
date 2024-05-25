@@ -1,0 +1,7 @@
+{
+  "rule_card": "LostDataService",
+  "rules": [
+    { "name": "LostDataService", "operator": "INTER", "rule_names": "LostDataService" },
+    { "name": "LostDataService", "metric_id": "RT", "ordi_value": "very_high" }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "rule_card": "TinyService",
+  "rules": [
+    { "name": "Tinyservice", "operator": "INTER", "rule_names": "FewMethod, HighCoupling" },
+    { "name": "FewMethod", "metric_id": "NMD", "ordi_value": "very_low" },
+    { "name": "HighCoupling", "metric_id": "CPL", "ordi_value": "very_high" }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "rule_card": "BottleneckService",
+  "rules": [
+    {
+      "name": "BottleneckService",
+      "operator": "INTER",
+      "rule_names": "RT, CPL, A"
+    },
+    {
+      "name": "ServiceA",
+      "metric_id": "RT",
+      "comparator": "greater",
+      "num_value": "100"
+    },
+    {
+      "name": "ServiceB",
+      "metric_id": "CPL",
+      "comparator": "equal",
+      "num_value": "true"
+    },
+    {
+      "name": "ServiceC",
+      "metric_id": "A",
+      "comparator": "equal",
+      "num_value": "false"
+    }
+  ]
+}

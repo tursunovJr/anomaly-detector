@@ -1,0 +1,12 @@
+rule "Long_Response_Time_Rule" { 
+  when
+    ServiceA.RT > 100; 
+  then
+    makeReport (); 
+}
+rule "High_Coupling_Rule" { 
+  when
+    ServiceB.PLD = 200; 
+  then
+    makeReport (); 
+}

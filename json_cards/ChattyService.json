@@ -1,0 +1,10 @@
+{
+  "rule_card": "ChattyService",
+  "rules": [
+    { "name": "ChattyService", "operator": "INTER", "rule_names": "TotalInvocation, HighResponse, Payload" },
+    { "name": "TotalInvocation", "metric_id": "NMI", "ordi_value": "very_high" },
+    { "name": "Response", "metric_id": "RT", "ordi_value": "medium" },
+    { "name": "Payload", "metric_id": "PLD", "ordi_value": "very_low" }
+  ]
+}
+
