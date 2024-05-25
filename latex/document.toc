@@ -1,0 +1,40 @@
+\contentsline {section}{\numberline {}Abstract}{4}{Doc-Start}%
+\contentsline {section}{\numberline {}Terms and abbreviations}{5}{Doc-Start}%
+\contentsline {section}{\numberline {}Introduction}{6}{Item.12}%
+\contentsline {section}{\numberline {1}Analysis of Domain}{8}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Project background}{8}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Motivation and Problem Statement}{9}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Intended Audience}{10}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Analysis of Existing Systems}{11}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Overview of the SODA Approach and SOFA Framework}{12}{subsubsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.5}Requirements Analysis}{14}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Functional Requirements}{14}{subsubsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}Non-functional Requirements}{14}{subsubsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.6}Goals and Objectives}{16}{subsection.1.6}%
+\contentsline {section}{\numberline {2}Methodology and System Design}{18}{section.2}%
+\contentsline {subsection}{\numberline {2.1}System Design}{18}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}System Architecture}{20}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Methodology}{21}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Service-Oriented Architecture}{21}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Event Logs and Tools}{23}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Rule-Based Systems and Domain-System Languages}{26}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}DSL Interpreter}{27}{subsubsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.4}Algorithm for Translating a Rule Card into an SQL Query}{29}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Workflow of the Development System}{31}{subsection.2.5}%
+\contentsline {section}{\numberline {3}System Implementation}{33}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Tools and Technologies}{33}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Antipatterns and Specifications}{35}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Rule Cards}{37}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Grammar}{37}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Examples}{39}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}Implementation Structure}{41}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Overview}{41}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}UI}{43}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Service Generator}{45}{subsubsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.5}Results Analysis}{46}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Bottleneck Service Analysis}{46}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Chatty Service Analysis}{47}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}Duplicated Service Analysis}{48}{subsubsection.3.5.3}%
+\contentsline {subsubsection}{\numberline {3.5.4}Evaluation Metrics: Precision and Recall}{48}{subsubsection.3.5.4}%
+\contentsline {section}{\numberline {}Conclusion}{50}{equation.3.2}%
+\contentsline {section}{\numberline {}References}{54}{equation.3.2}%

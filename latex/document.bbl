@@ -1,0 +1,723 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{antipattern}{online}{}
+      \name{author}{1}{}{%
+        {{hash=5423ce5be16fc09e610107bc1da50d74}{%
+           family={Onsiter},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{5423ce5be16fc09e610107bc1da50d74}
+      \strng{fullhash}{5423ce5be16fc09e610107bc1da50d74}
+      \strng{bibnamehash}{5423ce5be16fc09e610107bc1da50d74}
+      \strng{authorbibnamehash}{5423ce5be16fc09e610107bc1da50d74}
+      \strng{authornamehash}{5423ce5be16fc09e610107bc1da50d74}
+      \strng{authorfullhash}{5423ce5be16fc09e610107bc1da50d74}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(8.01.2024)}
+      \field{title}{What are anti-patterns in software development and how to avoid them {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://onsiter.medium.com/what-are-anti-patterns-in-software-development-and-how-to-avoid-them-3973bb53224d#
+      \endverb
+      \verb{url}
+      \verb https://onsiter.medium.com/what-are-anti-patterns-in-software-development-and-how-to-avoid-them-3973bb53224d#
+      \endverb
+      \keyw{antipattern}
+    \endentry
+    \entry{event_logs}{online}{}
+      \name{author}{1}{}{%
+        {{hash=61187176c3a643800f3d5189661a221a}{%
+           family={Sematext},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{61187176c3a643800f3d5189661a221a}
+      \strng{fullhash}{61187176c3a643800f3d5189661a221a}
+      \strng{bibnamehash}{61187176c3a643800f3d5189661a221a}
+      \strng{authorbibnamehash}{61187176c3a643800f3d5189661a221a}
+      \strng{authornamehash}{61187176c3a643800f3d5189661a221a}
+      \strng{authorfullhash}{61187176c3a643800f3d5189661a221a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(8.01.2024)}
+      \field{title}{Event Log {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://sematext.com/glossary/event-log/
+      \endverb
+      \verb{url}
+      \verb https://sematext.com/glossary/event-log/
+      \endverb
+      \keyw{event_logs}
+    \endentry
+    \entry{rule}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e163ad7458c70bf0c1cfbcbfa0d7dddd}{%
+           family={Simply\bibnamedelima intellegent},
+           familyi={S\bibinitperiod\bibinitdelim i\bibinitperiod},
+           prefix={engati.},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{e163ad7458c70bf0c1cfbcbfa0d7dddd}
+      \strng{fullhash}{e163ad7458c70bf0c1cfbcbfa0d7dddd}
+      \strng{bibnamehash}{e163ad7458c70bf0c1cfbcbfa0d7dddd}
+      \strng{authorbibnamehash}{e163ad7458c70bf0c1cfbcbfa0d7dddd}
+      \strng{authornamehash}{e163ad7458c70bf0c1cfbcbfa0d7dddd}
+      \strng{authorfullhash}{e163ad7458c70bf0c1cfbcbfa0d7dddd}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(8.01.2024)}
+      \field{title}{Rule-Based System {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://www.engati.com/glossary/rule-based-system
+      \endverb
+      \verb{url}
+      \verb https://www.engati.com/glossary/rule-based-system
+      \endverb
+      \keyw{rule}
+    \endentry
+    \entry{dsl}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b6a77f3f5bead76a495a90d63703e1f9}{%
+           family={JetBrains},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6a77f3f5bead76a495a90d63703e1f9}
+      \strng{fullhash}{b6a77f3f5bead76a495a90d63703e1f9}
+      \strng{bibnamehash}{b6a77f3f5bead76a495a90d63703e1f9}
+      \strng{authorbibnamehash}{b6a77f3f5bead76a495a90d63703e1f9}
+      \strng{authornamehash}{b6a77f3f5bead76a495a90d63703e1f9}
+      \strng{authorfullhash}{b6a77f3f5bead76a495a90d63703e1f9}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(10.01.2024)}
+      \field{title}{Domain Specific Language {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://www.jetbrains.com/mps/concepts/domain-specific-languages/
+      \endverb
+      \verb{url}
+      \verb https://www.jetbrains.com/mps/concepts/domain-specific-languages/
+      \endverb
+      \keyw{dsl}
+    \endentry
+    \entry{crs}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c67f59722f604312d7a98c4d2d41e3bb}{%
+           family={Hollander},
+           familyi={H\bibinitperiod},
+           given={Jordan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c67f59722f604312d7a98c4d2d41e3bb}
+      \strng{fullhash}{c67f59722f604312d7a98c4d2d41e3bb}
+      \strng{bibnamehash}{c67f59722f604312d7a98c4d2d41e3bb}
+      \strng{authorbibnamehash}{c67f59722f604312d7a98c4d2d41e3bb}
+      \strng{authornamehash}{c67f59722f604312d7a98c4d2d41e3bb}
+      \strng{authorfullhash}{c67f59722f604312d7a98c4d2d41e3bb}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(13.01.2024)}
+      \field{title}{Central Reservation Systems {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://hoteltechreport.com/news/what-is-a-crs
+      \endverb
+      \verb{url}
+      \verb https://hoteltechreport.com/news/what-is-a-crs
+      \endverb
+      \keyw{crs}
+    \endentry
+    \entry{soa}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b3b3a6ac74ecbd56bcdbefa4799fb9df}{%
+           family={Amazon},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{bibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorbibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authornamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(14.01.2024)}
+      \field{title}{Что такое сервис-ориентированная архитектура (SOA)? {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/ru/what-is/service-oriented-architecture/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/ru/what-is/service-oriented-architecture/
+      \endverb
+      \keyw{soa}
+    \endentry
+    \entry{sql}{online}{}
+      \name{author}{1}{}{%
+        {{hash=008d2189400e5bf504fbbd0057044853}{%
+           family={Service},
+           familyi={S\bibinitperiod},
+           given={Amazon\bibnamedelima Web},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{008d2189400e5bf504fbbd0057044853}
+      \strng{fullhash}{008d2189400e5bf504fbbd0057044853}
+      \strng{bibnamehash}{008d2189400e5bf504fbbd0057044853}
+      \strng{authorbibnamehash}{008d2189400e5bf504fbbd0057044853}
+      \strng{authornamehash}{008d2189400e5bf504fbbd0057044853}
+      \strng{authorfullhash}{008d2189400e5bf504fbbd0057044853}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(15.01.2024)}
+      \field{title}{Что такое структурированный язык запросов (SQL)? {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/ru/what-is/sql/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/ru/what-is/sql/
+      \endverb
+      \keyw{sql}
+    \endentry
+    \entry{soa_2}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c0a63f32f57a8edb4dca511ce7f464ff}{%
+           family={Barney},
+           familyi={B\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{c0a63f32f57a8edb4dca511ce7f464ff}
+      \strng{fullhash}{c0a63f32f57a8edb4dca511ce7f464ff}
+      \strng{bibnamehash}{c0a63f32f57a8edb4dca511ce7f464ff}
+      \strng{authorbibnamehash}{c0a63f32f57a8edb4dca511ce7f464ff}
+      \strng{authornamehash}{c0a63f32f57a8edb4dca511ce7f464ff}
+      \strng{authorfullhash}{c0a63f32f57a8edb4dca511ce7f464ff}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(14.01.2024)}
+      \field{title}{Service-oriented architecture (SOA)? {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://www.techtarget.com/searchapparchitecture/definition/service-oriented-architecture-SOA
+      \endverb
+      \verb{url}
+      \verb https://www.techtarget.com/searchapparchitecture/definition/service-oriented-architecture-SOA
+      \endverb
+      \keyw{soa_2}
+    \endentry
+    \entry{doc}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a11abeda21eff8ed911d7862c53b150f}{%
+           family={Guéhéneuc},
+           familyi={G\bibinitperiod},
+           given={Francis\bibnamedelimb Palma.\bibnamedelimi Mathieu\bibnamedelimb Nayrolles.\bibnamedelimi Naouel\bibnamedelimb Moha.\bibnamedelimi Yann-Gaël},
+           giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim Y\bibinithyphendelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{a11abeda21eff8ed911d7862c53b150f}
+      \strng{fullhash}{a11abeda21eff8ed911d7862c53b150f}
+      \strng{bibnamehash}{a11abeda21eff8ed911d7862c53b150f}
+      \strng{authorbibnamehash}{a11abeda21eff8ed911d7862c53b150f}
+      \strng{authornamehash}{a11abeda21eff8ed911d7862c53b150f}
+      \strng{authorfullhash}{a11abeda21eff8ed911d7862c53b150f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(29.01.2024)}
+      \field{title}{SOA Antipatterns: an Approach for their Specification and Detection {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/273933610
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/273933610
+      \endverb
+      \keyw{doc}
+    \endentry
+    \entry{soa_3}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5606702d875163ff65690170e545c0b8}{%
+           family={Erl},
+           familyi={E\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall PTR}%
+      }
+      \strng{namehash}{5606702d875163ff65690170e545c0b8}
+      \strng{fullhash}{5606702d875163ff65690170e545c0b8}
+      \strng{bibnamehash}{5606702d875163ff65690170e545c0b8}
+      \strng{authorbibnamehash}{5606702d875163ff65690170e545c0b8}
+      \strng{authornamehash}{5606702d875163ff65690170e545c0b8}
+      \strng{authorfullhash}{5606702d875163ff65690170e545c0b8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(30.01.2024)}
+      \field{title}{Service-Oriented Architecture: Concepts, Technology, and Design.}
+      \field{year}{2005}
+      \keyw{soa_3}
+    \endentry
+    \entry{func_req}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a6a2778ef2b36e2248e1855649f77afa}{%
+           family={Nuclino},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{a6a2778ef2b36e2248e1855649f77afa}
+      \strng{fullhash}{a6a2778ef2b36e2248e1855649f77afa}
+      \strng{bibnamehash}{a6a2778ef2b36e2248e1855649f77afa}
+      \strng{authorbibnamehash}{a6a2778ef2b36e2248e1855649f77afa}
+      \strng{authornamehash}{a6a2778ef2b36e2248e1855649f77afa}
+      \strng{authorfullhash}{a6a2778ef2b36e2248e1855649f77afa}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(29.01.2024)}
+      \field{title}{A Guide to Functional Requirements {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://www.nuclino.com/articles/functional-requirements
+      \endverb
+      \verb{url}
+      \verb https://www.nuclino.com/articles/functional-requirements
+      \endverb
+      \keyw{func_req}
+    \endentry
+    \entry{interpreter}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0a7cf72332fae85fba7a99486434acb3}{%
+           family={Team},
+           familyi={T\bibinitperiod},
+           given={Indeed\bibnamedelima Editorial},
+           giveni={I\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{0a7cf72332fae85fba7a99486434acb3}
+      \strng{fullhash}{0a7cf72332fae85fba7a99486434acb3}
+      \strng{bibnamehash}{0a7cf72332fae85fba7a99486434acb3}
+      \strng{authorbibnamehash}{0a7cf72332fae85fba7a99486434acb3}
+      \strng{authornamehash}{0a7cf72332fae85fba7a99486434acb3}
+      \strng{authorfullhash}{0a7cf72332fae85fba7a99486434acb3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(4.02.2024)}
+      \field{title}{What Does an Interpreter Do? Duties, Skills and Tips {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://www.indeed.com/career-advice/finding-a-job/what-does-interpreter-do
+      \endverb
+      \verb{url}
+      \verb https://www.indeed.com/career-advice/finding-a-job/what-does-interpreter-do
+      \endverb
+      \keyw{interpreter}
+    \endentry
+    \entry{system_design}{online}{}
+      \name{author}{1}{}{%
+        {{hash=87e145345e718e548314ee2de132ff69}{%
+           family={Geeks},
+           familyi={G\bibinitperiod},
+           given={Geek},
+           giveni={G\bibinitperiod},
+           prefix={for},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \strng{namehash}{87e145345e718e548314ee2de132ff69}
+      \strng{fullhash}{87e145345e718e548314ee2de132ff69}
+      \strng{bibnamehash}{87e145345e718e548314ee2de132ff69}
+      \strng{authorbibnamehash}{87e145345e718e548314ee2de132ff69}
+      \strng{authornamehash}{87e145345e718e548314ee2de132ff69}
+      \strng{authorfullhash}{87e145345e718e548314ee2de132ff69}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(17.02.2024)}
+      \field{title}{What is Systems Design – Learn System Design {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://www.geeksforgeeks.org/what-is-system-design-learn-system-design/
+      \endverb
+      \verb{url}
+      \verb https://www.geeksforgeeks.org/what-is-system-design-learn-system-design/
+      \endverb
+      \keyw{system_design}
+    \endentry
+    \entry{business_rules}{online}{}
+      \name{author}{1}{}{%
+        {{hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(19.02.2024)}
+      \field{title}{What are business rules? {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/business-rules
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/business-rules
+      \endverb
+      \keyw{business_rules}
+    \endentry
+    \entry{system_arch}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0bd3d119c3d1465088611f8af3203719}{%
+           family={Lentreo},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{0bd3d119c3d1465088611f8af3203719}
+      \strng{fullhash}{0bd3d119c3d1465088611f8af3203719}
+      \strng{bibnamehash}{0bd3d119c3d1465088611f8af3203719}
+      \strng{authorbibnamehash}{0bd3d119c3d1465088611f8af3203719}
+      \strng{authornamehash}{0bd3d119c3d1465088611f8af3203719}
+      \strng{authorfullhash}{0bd3d119c3d1465088611f8af3203719}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(22.02.2024)}
+      \field{title}{Types of System Architectures {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://medium.com/@abhijitgunjal1648/types-of-system-architectures-eb37dd496971
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@abhijitgunjal1648/types-of-system-architectures-eb37dd496971
+      \endverb
+      \keyw{system_arch}
+    \endentry
+    \entry{python}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9688a568902e4b07b60557b566bdd820}{%
+           family={Foundation},
+           familyi={F\bibinitperiod},
+           given={Python\bibnamedelima Software},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9688a568902e4b07b60557b566bdd820}
+      \strng{fullhash}{9688a568902e4b07b60557b566bdd820}
+      \strng{bibnamehash}{9688a568902e4b07b60557b566bdd820}
+      \strng{authorbibnamehash}{9688a568902e4b07b60557b566bdd820}
+      \strng{authornamehash}{9688a568902e4b07b60557b566bdd820}
+      \strng{authorfullhash}{9688a568902e4b07b60557b566bdd820}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(22.02.2024)}
+      \field{title}{Python is a programming language that lets you work quickly and integrate systems more effectively {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://www.python.org/
+      \endverb
+      \verb{url}
+      \verb https://www.python.org/
+      \endverb
+      \keyw{python}
+    \endentry
+    \entry{xml}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9f0e535e7ffd46f73fae154708a8f144}{%
+           family={Molechka},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9f0e535e7ffd46f73fae154708a8f144}
+      \strng{fullhash}{9f0e535e7ffd46f73fae154708a8f144}
+      \strng{bibnamehash}{9f0e535e7ffd46f73fae154708a8f144}
+      \strng{authorbibnamehash}{9f0e535e7ffd46f73fae154708a8f144}
+      \strng{authornamehash}{9f0e535e7ffd46f73fae154708a8f144}
+      \strng{authorfullhash}{9f0e535e7ffd46f73fae154708a8f144}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(21.02.2024)}
+      \field{title}{Что такое XML {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://habr.com/ru/articles/524288/
+      \endverb
+      \verb{url}
+      \verb https://habr.com/ru/articles/524288/
+      \endverb
+      \keyw{xml}
+    \endentry
+    \entry{multi_perspective}{online}{}
+      \name{author}{1}{}{%
+        {{hash=dc85405e7b9628309b7f45b421f79e5f}{%
+           family={A.},
+           familyi={A\bibinitperiod},
+           given={Shershakov\bibnamedelima Sergey},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc85405e7b9628309b7f45b421f79e5f}
+      \strng{fullhash}{dc85405e7b9628309b7f45b421f79e5f}
+      \strng{bibnamehash}{dc85405e7b9628309b7f45b421f79e5f}
+      \strng{authorbibnamehash}{dc85405e7b9628309b7f45b421f79e5f}
+      \strng{authornamehash}{dc85405e7b9628309b7f45b421f79e5f}
+      \strng{authorfullhash}{dc85405e7b9628309b7f45b421f79e5f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(14.03.2024)}
+      \field{title}{Multi-Perspective Process Mining with Embedding Configurations into DB-based Event Logs {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://publications.hse.ru/chapters/314834252
+      \endverb
+      \verb{url}
+      \verb https://publications.hse.ru/chapters/314834252
+      \endverb
+      \keyw{multi_perspective}
+    \endentry
+    \entry{sqlite3}{online}{}
+      \name{author}{1}{}{%
+        {{hash=098321d62b1c091ef7ba6f19ba0893ea}{%
+           family={Consortium},
+           familyi={C\bibinitperiod},
+           given={SQLite},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{098321d62b1c091ef7ba6f19ba0893ea}
+      \strng{fullhash}{098321d62b1c091ef7ba6f19ba0893ea}
+      \strng{bibnamehash}{098321d62b1c091ef7ba6f19ba0893ea}
+      \strng{authorbibnamehash}{098321d62b1c091ef7ba6f19ba0893ea}
+      \strng{authornamehash}{098321d62b1c091ef7ba6f19ba0893ea}
+      \strng{authorfullhash}{098321d62b1c091ef7ba6f19ba0893ea}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(21.02.2024)}
+      \field{title}{What Is SQLite? {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://www.sqlite.org/
+      \endverb
+      \verb{url}
+      \verb https://www.sqlite.org/
+      \endverb
+      \keyw{sqlite3}
+    \endentry
+    \entry{book_1}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3792934287306c3b0c28df23daa452d6}{%
+           family={Dudney},
+           familyi={D\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
+        {{hash=98ab3ec3a2b2ea1eb4f3e808956f2c75}{%
+           family={Asbury},
+           familyi={A\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley & Sons Inc}%
+      }
+      \strng{namehash}{a5ebea276cd8472ee701bb9cabea3fe4}
+      \strng{fullhash}{a5ebea276cd8472ee701bb9cabea3fe4}
+      \strng{bibnamehash}{a5ebea276cd8472ee701bb9cabea3fe4}
+      \strng{authorbibnamehash}{a5ebea276cd8472ee701bb9cabea3fe4}
+      \strng{authornamehash}{a5ebea276cd8472ee701bb9cabea3fe4}
+      \strng{authorfullhash}{a5ebea276cd8472ee701bb9cabea3fe4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(12.03.2024)}
+      \field{title}{J2EE AntiPatterns.}
+      \field{year}{2003}
+      \keyw{book_1}
+    \endentry
+    \entry{book_2}{article}{}
+      \name{author}{2}{}{%
+        {{hash=951dc5961e71323dca3e0751eb2875dc}{%
+           family={MartinJ.Fowler},
+           familyi={M\bibinitperiod},
+           given={KentBeck},
+           giveni={K\bibinitperiod}}}%
+        {{hash=b7d2b669877657359c5f6757d546b9a8}{%
+           family={JohnBrant},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{971580d0bb1d08a15508e2cfa825ed8b}
+      \strng{fullhash}{971580d0bb1d08a15508e2cfa825ed8b}
+      \strng{bibnamehash}{971580d0bb1d08a15508e2cfa825ed8b}
+      \strng{authorbibnamehash}{971580d0bb1d08a15508e2cfa825ed8b}
+      \strng{authornamehash}{971580d0bb1d08a15508e2cfa825ed8b}
+      \strng{authorfullhash}{971580d0bb1d08a15508e2cfa825ed8b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(12.03.2024)}
+      \field{title}{Refactoring: Improving the Design of Existing Code}
+      \field{year}{1999}
+      \keyw{book_2}
+    \endentry
+    \entry{duplicated_service}{online}{}
+      \name{author}{2}{}{%
+        {{hash=066f5155b1683490d722adcc68ead293}{%
+           family={Luba\bibnamedelima Cherbakov},
+           familyi={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Mamdouh\bibnamedelima Ibrahim},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=9dcec6e82f87e41b1cdadd1ec355e63d}{%
+           family={Ang},
+           familyi={A\bibinitperiod},
+           given={Jenny},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{66ddefa6ae5713d4673314c8c7bdbbc3}
+      \strng{fullhash}{66ddefa6ae5713d4673314c8c7bdbbc3}
+      \strng{bibnamehash}{66ddefa6ae5713d4673314c8c7bdbbc3}
+      \strng{authorbibnamehash}{66ddefa6ae5713d4673314c8c7bdbbc3}
+      \strng{authornamehash}{66ddefa6ae5713d4673314c8c7bdbbc3}
+      \strng{authorfullhash}{66ddefa6ae5713d4673314c8c7bdbbc3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(12.03.2024)}
+      \field{title}{SOA Antipatterns: The Ob- stacles to the Adoption and Successful Realization of Service-Oriented Architecture. {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://www.ibm.com/developerworks/webservices/library/ws-antipatterns/
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/developerworks/webservices/library/ws-antipatterns/
+      \endverb
+      \keyw{duplicated_service}
+    \endentry
+    \entry{nobody_home}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ebdae97ec846c45ef0731fb07709a73c}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ebdae97ec846c45ef0731fb07709a73c}
+      \strng{fullhash}{ebdae97ec846c45ef0731fb07709a73c}
+      \strng{bibnamehash}{ebdae97ec846c45ef0731fb07709a73c}
+      \strng{authorbibnamehash}{ebdae97ec846c45ef0731fb07709a73c}
+      \strng{authornamehash}{ebdae97ec846c45ef0731fb07709a73c}
+      \strng{authorfullhash}{ebdae97ec846c45ef0731fb07709a73c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(12.03.2024)}
+      \field{title}{SOA Anti-patterns {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://www.infoq.com/articles/SOA-anti-patterns
+      \endverb
+      \verb{url}
+      \verb https://www.infoq.com/articles/SOA-anti-patterns
+      \endverb
+      \keyw{nobody_home}
+    \endentry
+    \entry{book_3}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e666948e7d38e38af55b20e44403abc0}{%
+           family={Arnon\bibnamedelima Rotem-Gal-Oz},
+           familyi={A\bibinitperiod\bibinitdelim R\bibinithyphendelim G\bibinithyphendelim O\bibinitperiod},
+           given={Eric\bibnamedelima Bruno},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=79e68192f7bc638f4d69d53a901504b7}{%
+           family={Dahan},
+           familyi={D\bibinitperiod},
+           given={Udi},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Manning Publications Co.}%
+      }
+      \strng{namehash}{6eff75e74eab2e6f3a1764e313e55460}
+      \strng{fullhash}{6eff75e74eab2e6f3a1764e313e55460}
+      \strng{bibnamehash}{6eff75e74eab2e6f3a1764e313e55460}
+      \strng{authorbibnamehash}{6eff75e74eab2e6f3a1764e313e55460}
+      \strng{authornamehash}{6eff75e74eab2e6f3a1764e313e55460}
+      \strng{authorfullhash}{6eff75e74eab2e6f3a1764e313e55460}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(12.03.2024)}
+      \field{title}{SOA Patterns}
+      \field{year}{2012}
+      \keyw{book_3}
+    \endentry
+    \entry{soda}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a54a7cf2eb373904423b1a4f7e41de97}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={Mathieu\bibnamedelima Nayrolles},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{a54a7cf2eb373904423b1a4f7e41de97}
+      \strng{fullhash}{a54a7cf2eb373904423b1a4f7e41de97}
+      \strng{bibnamehash}{a54a7cf2eb373904423b1a4f7e41de97}
+      \strng{authorbibnamehash}{a54a7cf2eb373904423b1a4f7e41de97}
+      \strng{authornamehash}{a54a7cf2eb373904423b1a4f7e41de97}
+      \strng{authorfullhash}{a54a7cf2eb373904423b1a4f7e41de97}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(14.03.2024)}
+      \field{title}{Soda: A Tool Support for the Detection of SOA Antipatterns {[Online] Available:}}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/236174040
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/236174040
+      \endverb
+      \keyw{soda}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
